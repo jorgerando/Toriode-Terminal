@@ -1,4 +1,4 @@
-# Torus rendering
+# Torus rendering :doughnut:
 **A simple program that renders a torus in the linux shell**
 
 <img src="https://user-images.githubusercontent.com/69701088/158060164-4de97a48-5da8-4d9f-9b33-5657eebfa0b1.gif" width="300" height="300"/>
